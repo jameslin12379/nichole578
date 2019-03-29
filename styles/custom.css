@@ -193,3 +193,15 @@
 img {
     width: 100%;
 }
+
+.center {
+    text-align: center;
+}
+
+.bg-none {
+    background: none!important;
+}
+
+.mb-20 {
+    margin-bottom: 20px!important;
+}
